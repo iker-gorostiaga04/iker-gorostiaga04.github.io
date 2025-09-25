@@ -3,7 +3,7 @@ site_author: Iker Gorostiaga
 site_url: https://iker-gorostiaga04.github.io
 
 theme:
-  name: readthedocs  # Prueba: material, mkdocs, readthedocs
+  name: risonia  # Prueba: material, mkdocs, readthedocs
 
 nav:
   - Inicio: index.md
