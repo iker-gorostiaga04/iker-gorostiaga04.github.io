@@ -5,8 +5,8 @@ site_url: https://iker-gorostiaga04.github.io
 theme:
   name: risonia
   # custom_dir: theme_override/  # add static files or overrides
-  # logo: img/logo.svg           # if undefined a burger symbol is displayed on mobile devices
-  # favicon: img/logo.ico        # if undefined img/favicon.ico is used
+  logo: img/logo.svg           # if undefined a burger symbol is displayed on mobile devices
+  #favicon: /img/logo.svg        # if undefined img/favicon.ico is used
   # manifest: manifest.json      # manifest for installable webapp
   # serviceworker: service-worker.js  # for webapp an empty file is sufficient
   # extlink: true               # mark external links with symbol
@@ -33,9 +33,9 @@ plugins:
       light_text_color: '#000000'  # negro para texto claro
       dark_text_color: '#ffffff'   # blanco para texto oscuro
       #extra_css_light:
-      #  - 'css/additional-light.css'
-      #extra_css_dark:
-      #  - 'css/additional-dark.css'
+       # - 'css/additional-light.css'
+      extra_css_dark:
+        - 'css/extra_dark.css'
       additional:
         - theme_color: '#1d4e89'   # azul un poco más claro para variantes
           secondary_color: '#f48c06' # naranja medio
