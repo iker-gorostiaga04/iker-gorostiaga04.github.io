@@ -3,7 +3,16 @@ site_author: Iker Gorostiaga
 site_url: https://iker-gorostiaga04.github.io
 
 theme:
-  name: risonia  # Prueba: material, mkdocs, readthedocs
+  name: risonia
+  # custom_dir: theme_override/  # add static files or overrides
+  # logo: img/logo.svg           # if undefined a burger symbol is displayed on mobile devices
+  # favicon: img/logo.ico        # if undefined img/favicon.ico is used
+  # manifest: manifest.json      # manifest for installable webapp
+  # serviceworker: service-worker.js  # for webapp an empty file is sufficient
+  # extlink: true               # mark external links with symbol
+  # extblank: true              # send external links to new browser tab
+  # toc_sidebar: true           # If display is wide enough, then display TOC on the right side
+  # zoom_img: true              # click on images to view them bigger
 
 nav:
   - Inicio: index.md
@@ -12,3 +21,26 @@ nav:
   - Contacto: contacto.md
 
 repo_url: https://github.com/iker-gorostiaga04/iker-gorostiaga04.github.io
+
+plugins:
+  - search: {}
+
+  # - i18n: {}  # mkdocs-static-i18n (opcional)
+
+  - color-theme:
+      theme_color: '#0d3b66'       # azul oscuro (primario)
+      secondary_color: '#faa307'   # naranja suave (secundario)
+      light_text_color: '#000000'  # negro para texto claro
+      dark_text_color: '#ffffff'   # blanco para texto oscuro
+      #extra_css_light:
+      #  - 'css/additional-light.css'
+      #extra_css_dark:
+      #  - 'css/additional-dark.css'
+      additional:
+        - theme_color: '#1d4e89'   # azul un poco más claro para variantes
+          secondary_color: '#f48c06' # naranja medio
+
+
+  - w3css-classes: {}
+
+  # - encryptcontent: {}  # mkdocs-encryptcontent-plugin (opcional)

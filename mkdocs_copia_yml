@@ -1,0 +1,14 @@
+site_name: Mi Página Personal
+site_author: Iker Gorostiaga
+site_url: https://iker-gorostiaga04.github.io
+
+theme:
+  name: risonia  # Prueba: material, mkdocs, readthedocs
+
+nav:
+  - Inicio: index.md
+  - Sobre Mí: sobre-mi.md
+  - Proyectos: proyectos.md
+  - Contacto: contacto.md
+
+repo_url: https://github.com/iker-gorostiaga04/iker-gorostiaga04.github.io
