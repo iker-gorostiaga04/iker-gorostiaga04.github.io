@@ -13,15 +13,12 @@
 ---
 
 ## Habilidades
-- Python
-- Java
-- Git
-- SQL
-- HTML / CSS / XML
-- JavaScript
-- PHP
 
----
+| Lenguajes de Programación | Web & Marcado        | Bases de Datos | Herramientas |
+|---------------------------|----------------------|----------------|--------------|
+| Python                    | HTML / CSS / XML     | SQL            | Git          |
+| Java                      | JavaScript           | MYSQL          |              |
+| PHP                       |                      |                |              |
 
 ## Experiencia
-[Describe tu experiencia]
+> [Describe tu experiencia]
