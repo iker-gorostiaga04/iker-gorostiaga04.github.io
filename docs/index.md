@@ -27,7 +27,7 @@ Busco seguir ampliando el horizonte de mis conocimientos para poder aplicarlos e
 
 Puedes descargar mi currículum actualizado en el siguiente enlace:
 
-[Descargar CV](./Iker_Gorostiaga_CV.pdf)
+[Descargar CV](./curriculum/CV_Gorostiaga_Larrea_Iker_publico.pdf)
 
 ---
 
