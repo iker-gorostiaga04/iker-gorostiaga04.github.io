@@ -1,23 +1,36 @@
-# ¡Hola! Soy **Iker Gorostiaga**
+# Iker Gorostiaga
 
-### Estudiante especializado en **Inteligencia Artificial** y **Big Data** en Somorrostro.
+### Estudiante especializado en **Inteligencia Artificial** y **Big Data** en Somorrostro
 
 ---
 
 ## Sobre mí
 
-Soy un entusiasta del análisis de datos y las tecnologías emergentes que transforman el mundo digital. Me especializo en desarrollar soluciones inteligentes que aprovechan el poder de la inteligencia artificial para resolver problemas complejos y optimizar procesos.
+Soy un estudiante enfocado en el análisis de datos y las nuevas tecnologías.  
+Mi interés principal se centra en el desarrollo de soluciones basadas en inteligencia artificial capaces de resolver problemas específicos, optimizar procesos y generar valor a partir de los datos.  
+
+Busco seguir ampliando el horizonte de mis conocimientos para poder aplicarlos en proyectos reales.
 
 ---
 
-## Proyectos destacados
+## Habilidades e intereses que lograré este curso
 
-- **Proyecto 1:** _[Nombre del proyecto]_ — EJEMPLO.
-
-- **Proyecto 2:** _[Nombre del proyecto]_ — Creación de un dashboard interactivo para visualización de grandes volúmenes de datos en tiempo real.
+- Inteligencia Artificial y Machine Learning  
+- Análisis y procesamiento de datos  
+- Programación en Python  
+- Big Data y gestión de grandes volúmenes de información  
+- Visualización de datos y desarrollo de dashboards interactivos 
 
 ---
 
-## ¿Quieres saber más?
+## Curriculum Vitae
 
-Visita mi [GitHub](https://github.com/iker-gorostiaga04) para explorar mis proyectos o contáctame para colaborar juntos.
+Puedes descargar mi currículum actualizado en el siguiente enlace:
+
+[Descargar CV](./Iker_Gorostiaga_CV.pdf)
+
+---
+
+## Contacto
+
+Si deseas obtener más información, colaborar en proyectos o establecer contacto profesional, puedes hacerlo a través de mi [perfil de GitHub](https://github.com/iker-gorostiaga04) o mediante los datos incluidos en mi currículum.
