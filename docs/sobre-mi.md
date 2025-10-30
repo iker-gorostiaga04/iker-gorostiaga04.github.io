@@ -20,5 +20,5 @@
 | Java                      | JavaScript           | MYSQL          |              |
 | PHP                       |                      |                |              |
 
-## Experiencia
-> [Describe tu experiencia]
+<!--## Experiencia
+> [Describe tu experiencia]-->
