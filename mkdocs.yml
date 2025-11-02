@@ -15,8 +15,7 @@ theme:
   # zoom_img: true              # click on images to view them bigger
 
 nav:
-  - Inicio: index.md
-  - Sobre Mí: sobre-mi.md
+  - Sobre Mí: index.md
   - Proyectos: proyectos.md
   - Contacto: contacto.md
 

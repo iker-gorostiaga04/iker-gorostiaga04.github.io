@@ -13,14 +13,62 @@ Busco seguir ampliando el horizonte de mis conocimientos para poder aplicarlos e
 
 ---
 
-## Habilidades e intereses que lograré este curso
+## Educación
 
-- Inteligencia Artificial y Machine Learning  
-- Análisis y procesamiento de datos  
-- Programación en Python  
-- Big Data y gestión de grandes volúmenes de información  
-- Visualización de datos y desarrollo de dashboards interactivos 
+- **Curso de Especialización en Inteligencia Artificial y Big Data** 
+  Centro Somorrostro | 2025 - 2026  
 
+- **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Web (DAW)**  
+  Ceinmark (Bilbao) | 2024 - 2025  
+
+- **Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+  Elorrieta Erreka Mari (San Ignacio) | 2022 - 2024  
+
+- **Ciclo Formativo de Grado Medio en Microinformática y Redes**  
+  Harrobia Ikastola | 2020 - 2022  
+
+---
+
+## Habilidades técnicas
+
+### Lenguajes de programación
+
+| **Lenguaje**    | **Nivel de experiencia** |
+|-----------------|--------------------------|
+| **Python**      | Avanzado                 |
+| **Java**        | Intermedio               |
+| **PHP**         | Básico                   |
+| **JavaScript**  | Intermedio               |
+
+<br>
+### Desarrollo web y tecnologías de marcado
+
+| **Tecnología**  | **Nivel de experiencia** |
+|-----------------|--------------------------|
+| **HTML**        | Avanzado                 |
+| **CSS**         | Avanzado                 |
+| **XML**         | Intermedio               |
+
+<br>
+### Bases de datos
+
+| **Base de Datos**      | **Nivel de experiencia** |
+|------------------------|--------------------------|
+| **SQL**                | Avanzado                 |
+| **MySQL**              | Avanzado                 |
+| **SQL Server Management Studio (SSMS)** | Intermedio |
+| **InfluxDB**           | Intermedio               |
+
+<br>
+### Herramientas y plataformas
+
+| **Herramienta/Plataforma** | **Nivel de experiencia** |
+|---------------------------|--------------------------|
+| **Git**                   | Avanzado                 |
+| **Node-RED**              | Intermedio               |
+| **Grafana**               | Intermedio               |
+
+<br>
 ---
 
 ## Curriculum Vitae
@@ -34,3 +82,4 @@ Puedes descargar mi currículum actualizado en el siguiente enlace:
 ## Contacto
 
 Si deseas obtener más información, colaborar en proyectos o establecer contacto profesional, puedes hacerlo a través de mi [perfil de GitHub](https://github.com/iker-gorostiaga04) o mediante los datos incluidos en mi currículum.
+
